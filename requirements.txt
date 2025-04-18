@@ -1,8 +1,5 @@
-streamlit
-
 numpy
 scipy
 plotly
 laspy
-
 tempfile
