@@ -1,11 +1,8 @@
-
 streamlit
-torch
+
 numpy
 scipy
 plotly
 laspy
-leafmap
-open3d
+
 tempfile
-base64
